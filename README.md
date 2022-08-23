@@ -4,7 +4,7 @@
 
 ->network calls over the HTTP to fetch weather data from Weather API.
 
-->loin and signup system implemented using FIREBASE as backend.
+->login and signup system implemented using FIREBASE as backend.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
