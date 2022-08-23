@@ -1,6 +1,6 @@
 ->Real-time weather app.
 
-->A weather app that provides real-time weather of dffrent cities by making a network call to a weather API.
+->A weather app that provides real-time weather of diffrent cities by making a network call to a weather API.
 
 ->network calls over the HTTP to fetch weather data from Weather API.
 
